@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024-Present
-* B.Eng., Shanghai Jiao Tong University (SJTU), 2020-2024
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024 - Present
+  * Advisor: Professor Junxian He
+* B.Eng., Shanghai Jiao Tong University (SJTU), 2020 - 2024
 
-Work experience
+Research Experience
 ======
-* February 2025 - Present: Research Intern at MINIMAX
-* June 2024 - September 2024: Research Intern at Tencent WXG
+* February 2025 - Present: Research Intern, MINIMAX
+* June 2024 - September 2024: Research Intern, Tencent WXG
   * Advisor: Zifei Shan
-* June 2023 - December 2023: Research Intern at Shanghai AI Lab
+* June 2023 - December 2023: Research Intern, Shanghai AI Lab
   * Advisor: Prof. Yu Cheng
 
 Skills
@@ -28,6 +29,10 @@ Skills
 * Machine Learning
 * Large Language Models (LLM Reasoning and Reinforcement Learning, LLM Truthfulness and Interpretability)
 * Vision-Language Models (Hallucination)
+
+Honors & Awards
+======
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 Publications
 ======
